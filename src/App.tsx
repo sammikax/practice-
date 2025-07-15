@@ -32,9 +32,6 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-
-      <button className='bg-amber-50' name='button'>boton de prueba para pull request</button>
-      <button className='bg-amber-400' name='button'>boton de prueba para pull request #2</button>
     </>
   )
 }
